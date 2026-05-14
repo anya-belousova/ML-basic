@@ -3,10 +3,8 @@
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/25386/screenshots/10347621/media/2615d81ea2e1dfeb6a543f6445691c3e.gif" width="700">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VQOfk9HSsxcB5LzCZaRz6w.gif" width="700">
 </div>
-
-<br>
 
 ---
 
