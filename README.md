@@ -1,6 +1,13 @@
 # ML-basic
 Курс по основам ML в итмо
 
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/25386/screenshots/10347621/media/2615d81ea2e1dfeb6a543f6445691c3e.gif" width="700">
+</div>
+
+<br>
+
 ---
 
 
