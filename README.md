@@ -3,8 +3,10 @@
 
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VQOfk9HSsxcB5LzCZaRz6w.gif" width="700">
+  <img src="image.gif" width="700">
 </div>
+
+<br>
 
 ---
 
