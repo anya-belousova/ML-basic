@@ -2,8 +2,8 @@
 Курс по основам ML в итмо
 
 
-<div align="center">
-  <img src="image.gif" width="700">
+<div>
+  <img src="image.gif" width="400">
 </div>
 
 <br>
